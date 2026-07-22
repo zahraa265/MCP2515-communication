@@ -1,5 +1,7 @@
 /* This code is for the sender end of the MCP2515 module
 
+** This code uses the mcp_can library by coryjfowler
+
 * This program uses modular coding to make the code more organised and easier to read
 * it has a separate file for pin mapping and the different commands have been put into separate functions
 * (make sure the pin numbers match your circuit or the current pins are edited into the code correctly)
